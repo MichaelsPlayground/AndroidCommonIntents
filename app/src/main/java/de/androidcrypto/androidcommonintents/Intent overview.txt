@@ -1,0 +1,89 @@
+https://developer.android.com/guide/components/intents-common
+
+Clock 3: https://developer.android.com/guide/components/intents-common#Clock
+
+Create an alarm, Create a timer, Show all alarms
+
+Calendar 1: https://developer.android.com/guide/components/intents-common#Calendar
+
+Add a calendar event
+
+Camera 3: https://developer.android.com/guide/components/intents-common#Camera
+
+Capture a picture or video and return it, Start a camera app in still image mode, Start a camera app in video mode
+
+Contacts/People App 5: https://developer.android.com/guide/components/intents-common#Contacts
+
+Select a contact, Select specific contact data, View a contact, Edit an existing contact, Insert a contact
+
+Email 1: https://developer.android.com/guide/components/intents-common#Email
+
+Compose an email with optional attachments,
+
+https://developer.android.com/guide/components/intents-common#Email
+https://developer.android.com/guide/components/intents-common#Email
+File Storage 2: https://developer.android.com/guide/components/intents-common#Storage
+
+Retrieve a specific type of file, Open a specific type of file
+
+Local Actions 1: https://developer.android.com/guide/components/intents-common#Local
+
+Call a car
+
+Maps 1: https://developer.android.com/guide/components/intents-common#Maps
+
+Show a location on a map
+
+Music or Video 2: https://developer.android.com/guide/components/intents-common#Music
+
+Play a media file, Play music based on a search query
+
+New Note 1: https://developer.android.com/guide/components/intents-common#NewNote
+
+Create a note
+
+Phone 1: https://developer.android.com/guide/components/intents-common#Phone
+
+Initiate a phone call
+
+Search 2: https://developer.android.com/guide/components/intents-common#Search
+
+Search using a specific app, Perform a web search
+
+Settings mind 14: https://developer.android.com/guide/components/intents-common#Settings
+
+Open a specific section of Settings
+
+ACTION_SETTINGS, ACTION_WIRELESS_SETTINGS, ACTION_AIRPLANE_MODE_SETTINGS, ACTION_WIFI_SETTINGS, ACTION_APN_SETTINGS, ACTION_BLUETOOTH_SETTINGS, ACTION_DATE_SETTINGS, ACTION_LOCALE_SETTINGS, ACTION_INPUT_METHOD_SETTINGS, ACTION_DISPLAY_SETTINGS, ACTION_SECURITY_SETTINGS, ACTION_LOCATION_SOURCE_SETTINGS, ACTION_INTERNAL_STORAGE_SETTINGS, ACTION_MEMORY_CARD_SETTINGS
+
+See the Settings documentation for additional settings screens that are available
+
+https://developer.android.com/reference/android/provider/Settings
+
+Text Messaging 3: https://developer.android.com/guide/components/intents-common#Messaging
+
+Compose an SMS/MMS message with attachment
+
+    ACTION_SENDTO or ACTION_SEND or ACTION_SEND_MULTIPLE
+
+Web Browser 1: https://developer.android.com/guide/components/intents-common#Browser
+
+Load a web URL
+
+Verify Intents with the Android Debug Bridge: https://developer.android.com/guide/components/intents-common#AdbIntents
+
+
+
+Additional:
+
+Bluetooth: https://developer.android.com/guide/topics/connectivity/bluetooth
+
+Bluetooth low energy: https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview
+
+NFC: https://developer.android.com/guide/topics/connectivity/nfc
+
+NFC basics: https://developer.android.com/guide/topics/connectivity/nfc/nfc
+
+Advanced NFC: https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc
+
+Host-based Card Emulation: https://developer.android.com/guide/topics/connectivity/nfc/hce
